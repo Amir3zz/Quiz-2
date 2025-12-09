@@ -8,7 +8,17 @@ Short Explanation:
 
 Before:
 <img width="2880" height="7000" alt="before" src="https://github.com/user-attachments/assets/0e99222f-c4de-49a9-a4dc-ccdf1807dd04" />
+Description: This version has most design patterns, it has:
+-Navigation: nav bar 
+-Input forms: labels, progressive disclosure, and placeholders
+-Feedback and Status: Empty States and Toast
+-Layout and Structure: Grids, cards
+-Data Presentation: Micro Interactions  
 
 
 After:
 <img width="2880" height="7000" alt="after" src="https://github.com/user-attachments/assets/06c255c1-8a8d-4a84-b7ef-fd25f0a57e95" />
+Description: This is what has been added:
+-Navigation: Breadcrumbs
+-Input and Forms: Inline validation
+-Layout and Strcuture: Responsive breakpoints
